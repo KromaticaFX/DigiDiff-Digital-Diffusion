@@ -17,7 +17,7 @@ For bug reports and feature requests, head over to our [Issues](https://github.c
 
 ## Documentation & Release Notes
 
-Release notes will be posted HERE. Documentation can be found within the plugin, on our website or on the Wiki for this repository.
+Release notes can be found in the releases section. Documentation can be found within the plugin, in the Github Wiki tab or can be downloaded from [here](https://digidiff-releases.nyc3.digitaloceanspaces.com/Documentation/DigiDiff%20Documentation_v1.0.0.pdf).
 
 
 
